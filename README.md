@@ -16,7 +16,7 @@ Most of what I build is in Microsoft Copilot Studio and M365 Copilot. These are 
 | Data Reviewer Agent | Data issues found late, during implementation | Checks customer files against a library of known issues | Live, being extended |
 | SQL Query Assistant | CSMs wait on specialists for routine queries | Writes SQL from our schema and business context | Live |
 | AI Adoption Playbook | Teams unsure where AI fits | Champions, governance and a Workflow Intake agent | In progress |
-| Churn Analysis Agent | Churn analysis varies from one person to the next, and risks are spotted late | Analyses churn factors consistently and suggests which accounts to include in the forecast | Planned |
+| Churn Analysis Agent | Churn analysis varies from one person to the next, and risks are spotted late | Analyses churn factors consistently and suggests which accounts to include in the forecast | Live |
 | Claude Skills | Recurring CS tasks done inconsistently | Reusable skills, starting with Value Review prep | Planned |
 
 **Status key:** Planned (scoped, not started) · In progress (being built or tested) · Pilot (small group using it) · Live (in regular use) · Paused (on hold) · Retired (stopped because the value or adoption didn't justify continuing; the reason is given in the project repo)
