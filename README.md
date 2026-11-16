@@ -84,7 +84,7 @@ Currently working through Andrej Karpathy's nanoGPT to understand how language m
 I use AI outside work as well, mostly as a place to try out techniques before using them in the agents I build at EazyStock.
 
 - **Workout planner:** a Claude Project that writes my training plans and tracks progress over time. It has helped me learn how to write project instructions and how to keep context consistent across conversations.
-- **AI word search generator (planned):** an LLM generates words for any category and places them in a grid according to the difficulty level, with a mode where words can run in any direction.
+- [**AI word search generator:**](https://github.com/ranveer-singh-10/ai_word_search_creator.git) an LLM generates words for any category and places them in a grid according to the difficulty level, with a mode where words can run in any direction.
 
 ## Contact
 
