@@ -10,7 +10,7 @@ Most of what I build is in Microsoft Copilot Studio and M365 Copilot. These are 
 
 | Project | Problem | What it does | Status |
 |---|---|---|---|
-| Model Evaluation Tool | Choosing a model means trading accuracy against cost and speed, usually by guesswork | Sends the same prompt to up to 13 current Claude and OpenAI models and logs cost, response time and token usage, with a log viewer for comparing runs. Accuracy scoring in progress. Built with Claude Code. | Live, being extended |
+| Model Evaluation Tool | Choosing a model means trading accuracy against cost and speed, usually by guesswork | Sends the same prompt to up to 13 current Claude and OpenAI models and logs cost, response time, token usage and accuracy recording, with a log viewer for comparing runs. Built with Claude Code. Open Models to be added next | Live, being extended |
 | AI Chief of Staff | Hard to see daily priorities across email, calendar and Gainsight | Plans my day, putting sales opportunities and at-risk customers first | Live |
 | Prospecting Agent | Researching prospects by hand is slow and inconsistent | Checks companies against our ICP, finds contacts and prepares Outlook drafts for business development to review | In progress |
 | Data Reviewer Agent | Data issues found late, during implementation | Checks customer files against a library of known issues | Live, being extended |
