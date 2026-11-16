@@ -4,7 +4,9 @@ Customer Success Director at EazyStock, a B2B SaaS company specialising in inven
 
 My role covers two things: making sure our customers get value from EazyStock, and leading AI adoption across our internal teams. Before EazyStock I spent six years at Syncron, delivering more than 25 enterprise supply chain implementations for customers including JCB, Perkins and Mazda.
 
-Most of what I build is in Microsoft Copilot Studio and M365 Copilot. These are agents that take repetitive work off people's plates in customer success, sales and implementation.
+Most of what I build is in Microsoft Copilot Studio and M365 Copilot. These are agents that take repetitive work off people's plates in customer success, sales, implementation and support.
+
+Personal projects and learning is done mostly using Claude.
 
 ## Projects
 
