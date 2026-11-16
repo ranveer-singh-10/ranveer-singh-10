@@ -1,8 +1,10 @@
 # Ranveer Singh
 
-Customer Success Director at EazyStock, a B2B SaaS company specialising in inventory optimisation. Based in the UK.
+Customer Success Director at EazyStock, a B2B SaaS company specialising in inventory optimisation. Based in Warwick, UK.
 
-My role covers two things: making sure our customers get value from EazyStock, and leading AI adoption across our internal teams. Most of what I build is in Microsoft Copilot Studio and M365 Copilot. These are agents that take repetitive work off people's plates in customer success, sales and implementation.
+My role covers two things: making sure our customers get value from EazyStock, and leading AI adoption across our internal teams. Before EazyStock I spent six years at Syncron, delivering more than 25 enterprise supply chain implementations for customers including JCB, Perkins and Mazda.
+
+Most of what I build is in Microsoft Copilot Studio and M365 Copilot. These are agents that take repetitive work off people's plates in customer success, sales and implementation.
 
 ## Projects
 
@@ -14,6 +16,7 @@ My role covers two things: making sure our customers get value from EazyStock, a
 | Data Reviewer Agent | Data issues found late, during implementation | Checks customer files against a library of known issues | Live, being extended |
 | SQL Query Assistant | CSMs wait on specialists for routine queries | Writes SQL from our schema and business context | Live |
 | AI Adoption Playbook | Teams unsure where AI fits | Champions, governance and a Workflow Intake agent | In progress |
+| Churn Analysis Agent | Churn analysis varies from one person to the next, and risks are spotted late | Analyses churn factors consistently and suggests which accounts to include in the forecast | Planned |
 | Claude Skills | Recurring CS tasks done inconsistently | Reusable skills, starting with Value Review prep | Planned |
 
 **Status key:** Planned (scoped, not started) · In progress (being built or tested) · Pilot (small group using it) · Live (in regular use) · Paused (on hold) · Retired (stopped because the value or adoption didn't justify continuing; the reason is given in the project repo)
@@ -69,6 +72,17 @@ Microsoft Copilot Studio, M365 Copilot, Claude, Claude Code, Claude API, OpenAI 
 - Ethics in the Age of Generative AI
 
 Currently working through Andrej Karpathy's nanoGPT to understand how language models are built from the ground up.
+
+## Talks
+
+- **Build and buy: why SMEs shouldn't build AI alone.** Presentation to Microsoft Business Central partners on combining in-house AI with specialist software such as inventory optimisation (2026).
+
+## Personal experiments
+
+I use AI outside work as well, mostly as a place to try out techniques before using them in the agents I build at EazyStock.
+
+- **Workout planner:** a Claude Project that writes my training plans and tracks progress over time. It has helped me learn how to write project instructions and how to keep context consistent across conversations.
+- **AI word search generator (planned):** an LLM generates words for any category and places them in a grid according to the difficulty level, with a mode where words can run in any direction.
 
 ## Contact
 
