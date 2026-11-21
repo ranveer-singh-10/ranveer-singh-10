@@ -18,7 +18,7 @@ Personal projects and learning is done mostly using Claude.
 | Data Reviewer Agent | Data and file issues found late, during implementation | Checks customer files for structural integrity and against a library of known issues | Live, being extended |
 | SQL Query Assistant | CSMs wait on specialists for routine queries | Writes SQL from our schema and business context | Live |
 | AI Adoption Playbook | Teams unsure where AI fits | Champions, governance and a Workflow Intake agent | In progress |
-| Churn Analysis Agent | Churn analysis varies from one person to the next, and risks are spotted late | Utilises the Gainsight MCP to extract data and analyses churn factors consistently and suggests which accounts to include in the forecast for executive leadership | Live |
+| [Churn Analysis Agent](https://github.com/ranveer-singh-10/churn-analysis-agent) | Churn analysis varies from one person to the next, and risks are spotted late | Utilises the Gainsight MCP to extract data and analyses churn factors consistently and suggests which accounts to include in the forecast for executive leadership | Live |
 | Claude Skills | Recurring CS tasks done inconsistently | Reusable skills, starting with Value Review prep | Planned |
 
 **Status key:** Planned (scoped, not started) · In progress (being built or tested) · Pilot (small group using it) · Live (in regular use) · Paused (on hold) · Retired (stopped because the value or adoption didn't justify continuing; the reason is given in the project repo)
